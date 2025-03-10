@@ -82,6 +82,13 @@ T(n)= 13T(n/13) + 2n
  
 13^iT(n/13^i) + (2n * 13 * (i-1)) +2n  
 
+
+
+I was able to do this assignment entirely on my own.
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
+
+
 for i = lg n
 
 nT(1) + (2n * 13 * (log n -1)) +2n
